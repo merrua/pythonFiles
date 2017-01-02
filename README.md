@@ -1,2 +1,2 @@
 # pythonFiles
-python f file repo :joy_cat:
+python 2 file repo :joy_cat:
